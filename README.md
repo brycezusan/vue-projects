@@ -3,12 +3,13 @@
 - Single File Components
 - Api Styles
 - Composition API : Ref , Reactive
-- Composables
 - Directives : v-for , v-if , v-else , v-model ,etc...
 - Events v-on ,@click ,@submit
   - Inline Handlers
   - Method handlers 
-- Emits
+- Emits , defineEmits , update-model
+- Props , defineProps .
+- Composables
 - Computed Properties
 - Watch , WatchEffect
 - Array Methods
@@ -19,3 +20,4 @@
 
 1. cart-vue-guitars [preview](https://vue-guitar-cart.netlify.app/)
 2. admin-citas-vue [preview](https://gestion-citas-vue.netlify.app/)
+3. api-criptos-vue [preview](https://axios-api-criptos.netlify.app/)
