@@ -1,0 +1,14 @@
+{
+  "registros": [
+    {
+      "nombre": "Cesar Briam",
+      "apellidos": "Zubilete Sanchez",
+      "email": "brycezs.92@gmail.com",
+      "telefono": "987-259-4615",
+      "empresa": "CodeandoDev",
+      "cargo": "Frontend  Dev Sr",
+      "estado": true,
+      "id": "18b0"
+    }
+  ]
+}
