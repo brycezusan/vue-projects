@@ -26,4 +26,4 @@
 2. admin-citas-vue [preview](https://gestion-citas-vue.netlify.app/)
 3. api-criptos-vue [preview](https://axios-api-criptos.netlify.app/)
 4. vue-clima-api [preview](https://vue-clima-composables.netlify.app/)
-5. rest-vue-router [ code ](https://github.com/brycezusan/vue-projects)
+5. rest-vue-router [ code ]([https://github.com/brycezusan/vue-projects](https://github.com/brycezusan/vue-projects/tree/main/5.rest-vue-router))
