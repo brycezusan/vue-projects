@@ -18,6 +18,7 @@
 - Fetch , Apis , Async Await , Axios
 - Vue Router ,Centralized Routes AXios ,
 - REST API , Json server Fake Data
+- Validation forms , Formkit
 - State Global Pinia
 - Headless UI , 
 - Pagination 
