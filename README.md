@@ -18,6 +18,10 @@
 - Fetch , Apis , Async Await , Axios
 - Vue Router ,Centralized Routes AXios ,
 - REST API , Json server Fake Data
+- State Global Pinia
+- Headless UI , 
+- Pagination 
+
 
 ## VITE + VUE + JS
 
@@ -26,3 +30,4 @@
 3. api-criptos-vue [preview](https://axios-api-criptos.netlify.app/)
 4. vue-clima-api [preview](https://vue-clima-composables.netlify.app/)
 5. rest-vue-router [ code ](https://github.com/brycezusan/vue-projects)
+6. search-drinks-pinia [preview](https://router-pinia-drinks.netlify.app/)
